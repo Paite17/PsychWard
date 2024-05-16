@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 3cf8b382f85c1d74b83afaaee5d8cf15
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 730
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74e20dca8059449bde797627a97ec9
+      internalID: -855061460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 745
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd61b94a3d502468fba29a62c8b0a7
+      internalID: 2082534052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 750
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddf9b5407d9c8a4fa59b0c0b131dae4
+      internalID: 1778128896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 765
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8095616f01320d4cb02b2a8ab134bf2
+      internalID: 868588149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 740
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a025de4343938d42b966e8cdb39c322
+      internalID: -723627425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 730
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a28ca0f0ab0964da5bc13f8d2f57ff
+      internalID: -2012021262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 785
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ded2c8f00f7e614794ac0c3ea300081
+      internalID: -1204443792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 785
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666474a2d43324459815487bc2faeba
+      internalID: -1554594677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 780
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5183e684a482b0d4fadd21fba053b40f
+      internalID: -661174918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 745
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051886ad2e599f44caddb6945ad37e98
+      internalID: 1923397387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 665
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e51922588b5124a8b5e3c68d7b6d4b
+      internalID: -1129374925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 745
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806b8689488c4894d932e69932eb799a
+      internalID: -1921723314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 755
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72e89c8efdc5bc41b880276921bdb96
+      internalID: -708545941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 745
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca431a10cd9170741aeb93b6d73e47ec
+      internalID: 1946268336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 745
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ca8317120796640998f5032d804ccf
+      internalID: -1019385233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 735
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cffe69e38cbbc4ea2a2510a33dc5f5
+      internalID: 1890595090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd75c8771cddbe4dacf58a8de167adf
+      internalID: 1050908498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 670
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a37400d3d94d40970f5db0c01a08d
+      internalID: -1659063219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 650
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096c2a7afe640944b31f84fdf27c827
+      internalID: 1280106080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 660
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106ba601fa71c694c84823507a2f285d
+      internalID: 732649753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 660
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1816440e63ed6045909df80cef3b6b1
+      internalID: -141800412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 655
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82487e3cfb1037943a57cfc8f24de92d
+      internalID: 887105639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 650
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec82637441b66f4caacb1554462f04c
+      internalID: -540845220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384ae53644022646bdfe17ef01bb85b
+      internalID: -861270984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 575
+        width: 125
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28145e957ea2cde4eb97024007e8e6a8
+      internalID: -998126133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 490
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09335cdc8092fd4f8f9c66c647379b1
+      internalID: -104389542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 585
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab8ef97b64f3924b9c7e374df1c00f3
+      internalID: -673930454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 575
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe8a9861e45294da23aeefbf2cd734
+      internalID: 1666264727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 495
+        width: 75
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30a629c54974c43b765a0771e25a70
+      internalID: 1646445595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 510
+        width: 80
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bbe1d0ea860864f98d9c820385c417
+      internalID: -382239033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 600
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5b9aaa0ba27d4f8b829af5f363f05
+      internalID: -381537884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 580
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1361cbe2f11c9345846fb9e873c3449
+      internalID: 383516767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 490
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5568c33772c3f41b842ce46ceb0d2a
+      internalID: -8180724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 490
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192c4e1d888f7c9428352517006664de
+      internalID: 1322045623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 510
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e90f65c143be149bb7d6449294dc23
+      internalID: -706224062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 500
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639889c4ac24a1e4d9b7eed785ed7cd4
+      internalID: 2144727037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 415
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978218261becf44c8766f280b203aa5
+      internalID: 1793624610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 420
+        width: 230
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d248997b968b247a9a52b65df96346
+      internalID: 363804233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 430
+        width: 150
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa47a85024dff14f9de07a6f5253b4b
+      internalID: -1641470881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 360
+        width: 145
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837ac5052203022469718d1527f4cdc6
+      internalID: -1243857498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 420
+        width: 125
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae8db09b4a454468cb57ba9daac386
+      internalID: -276778125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 255
+        width: 70
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb54c5730c7160c4b909d4c318f6d7e4
+      internalID: 1822388528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 340
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d0214bca75c1f4d82ab923107bdf01
+      internalID: 522824510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 335
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad1cbcee43be4449e6be3382e6d03f
+      internalID: 425485411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 330
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f1359a89fdc648bfa5f1f757dc5db
+      internalID: 1384923786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 390
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729366f498a9c944c83e9d6a0f78b86a
+      internalID: 2099725310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 335
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afacefdeb2cffe14494e3799910db954
+      internalID: -1654304252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 335
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ceda6e90cf7a54a8fd3132df9e273d
+      internalID: -1716738313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0630425b33354dbf929716fee4db7
+      internalID: 1126521131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 255
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a37e6585db50b42a53baeb44b83bbc
+      internalID: -503637182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547b804aecfc064b800faeafa115b7d
+      internalID: 444968357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 180
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac8381b80c0a064981c3a7d6074d24b
+      internalID: -1262170876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 270
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f2cc69b33f4a43b67ad5cda1faea9
+      internalID: 1767273774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 265
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4995406b3bec46341b09eafe3ab6c7e4
+      internalID: 1925710609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 260
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6956c344ba2bc4688d4181494877b7
+      internalID: -769942372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 175
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b17bc972954e24395c49a122436542
+      internalID: -84834391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 175
+        width: 145
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250214c0d2641b74aba298bd57ebacd5
+      internalID: -857454312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 175
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1fb0dba3360524194f53615890843c
+      internalID: -1118286560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 175
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a1ed5286fa1946805dbea99eaa3b2
+      internalID: 1190966252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 175
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdad96d9d581fd409ce45c4cb715199
+      internalID: -1998544824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 115
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e850a586feef2047a0286a60abec468
+      internalID: 238059929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 125
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac012f25a6057b40abbb121fd3adff3
+      internalID: -1419934349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken_Maze_Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 90
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37757c42cff988843a843854e4f720d7
+      internalID: 1778759506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Broken_Maze_Tilemap_12: -708545941
+      Broken_Maze_Tilemap_40: -276778125
+      Broken_Maze_Tilemap_11: -1921723314
+      Broken_Maze_Tilemap_15: 1890595090
+      Broken_Maze_Tilemap_9: 1923397387
+      Broken_Maze_Tilemap_0: -855061460
+      Broken_Maze_Tilemap_16: 1050908498
+      Broken_Maze_Tilemap_55: -84834391
+      Broken_Maze_Tilemap_23: -861270984
+      Broken_Maze_Tilemap_31: 383516767
+      Broken_Maze_Tilemap_56: -857454312
+      Broken_Maze_Tilemap_42: 522824510
+      Broken_Maze_Tilemap_14: -1019385233
+      Broken_Maze_Tilemap_41: 1822388528
+      Broken_Maze_Tilemap_50: 444968357
+      Broken_Maze_Tilemap_36: 1793624610
+      Broken_Maze_Tilemap_47: -1716738313
+      Broken_Maze_Tilemap_51: -1262170876
+      Broken_Maze_Tilemap_45: 2099725310
+      Broken_Maze_Tilemap_20: -141800412
+      Broken_Maze_Tilemap_35: 2144727037
+      Broken_Maze_Tilemap_6: -1204443792
+      Broken_Maze_Tilemap_27: 1666264727
+      Broken_Maze_Tilemap_39: -1243857498
+      Broken_Maze_Tilemap_29: -382239033
+      Broken_Maze_Tilemap_58: 1190966252
+      Broken_Maze_Tilemap_19: 732649753
+      Broken_Maze_Tilemap_4: -723627425
+      Broken_Maze_Tilemap_48: 1126521131
+      Broken_Maze_Tilemap_2: 1778128896
+      Broken_Maze_Tilemap_3: 868588149
+      Broken_Maze_Tilemap_22: -540845220
+      Broken_Maze_Tilemap_13: 1946268336
+      Broken_Maze_Tilemap_34: -706224062
+      Broken_Maze_Tilemap_33: 1322045623
+      Broken_Maze_Tilemap_62: 1778759506
+      Broken_Maze_Tilemap_17: -1659063219
+      Broken_Maze_Tilemap_24: -998126133
+      Broken_Maze_Tilemap_52: 1767273774
+      Broken_Maze_Tilemap_54: -769942372
+      Broken_Maze_Tilemap_43: 425485411
+      Broken_Maze_Tilemap_30: -381537884
+      Broken_Maze_Tilemap_26: -673930454
+      Broken_Maze_Tilemap_38: -1641470881
+      Broken_Maze_Tilemap_10: -1129374925
+      Broken_Maze_Tilemap_1: 2082534052
+      Broken_Maze_Tilemap_25: -104389542
+      Broken_Maze_Tilemap_18: 1280106080
+      Broken_Maze_Tilemap_49: -503637182
+      Broken_Maze_Tilemap_28: 1646445595
+      Broken_Maze_Tilemap_5: -2012021262
+      Broken_Maze_Tilemap_59: -1998544824
+      Broken_Maze_Tilemap_21: 887105639
+      Broken_Maze_Tilemap_46: -1654304252
+      Broken_Maze_Tilemap_32: -8180724
+      Broken_Maze_Tilemap_8: -661174918
+      Broken_Maze_Tilemap_53: 1925710609
+      Broken_Maze_Tilemap_57: -1118286560
+      Broken_Maze_Tilemap_61: -1419934349
+      Broken_Maze_Tilemap_44: 1384923786
+      Broken_Maze_Tilemap_37: 363804233
+      Broken_Maze_Tilemap_60: 238059929
+      Broken_Maze_Tilemap_7: -1554594677
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1574ab488ea170f489c4ba49c05e2049, type: 3}
+  m_Name: GogglesBatteryQuest
+  m_EditorClassIdentifier: 
+  questName: Give the battery to Goggles
+  description: 
+  type: 0
+  questID: 2
+  character: {fileID: 6498650489111476670, guid: 4ae013764cbebbd4797e3ef6141f5185, type: 3}
+  reward: {fileID: 0}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4fcc517136536499a2a6775cdd2912, type: 3}
+  m_Name: DorothyQuestStart
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Ah the Artillery Boy! Great to have ya on the team!
+  - I knew there'd be another world war after whathisname shot the whoosinman.
+  - I knew there'd be another world war after whathisname shot the whoosinman.
+  - Nobody listened! None I tell ya! BANG BANG that's whatcha get!
+  - Welcome to the airforce kiddo, they got us captive in some prisner o' war camp,
+    and I'm gettin outta here!
+  - 'This place got a roof which''n makes a perfect takeoff strip for our escape! '
+  - Gonna fashion me a plane n ride that puppy ll the way back to Penzance!
+  - Better call the Major General tell em Dot Lambert's comin for tea! Hehehe!
+  - Now between me n you I think our meals have been posioned with soviet mind controllers
+    and I wouldn't even WHIFF 'em.
+  - We gonna need us some real food and STAT, can ya get me some Private?
+  responses: []
+  character:
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  hasEvent: 00000000000000000001

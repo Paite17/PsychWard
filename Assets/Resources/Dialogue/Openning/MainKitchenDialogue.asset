@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4fcc517136536499a2a6775cdd2912, type: 3}
+  m_Name: MainKitchenDialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - '*RATATATA* ''ere comes the new artillery boy!! Just in time, the B-Division
+    is about to get the jump on the Netherlands!'
+  - HEY!! SHUT UP WILL YER?!!! Noone wants to hear it ya old bag!!
+  - There's your fighter spirit Clarkson! Now go get them there mashetteshy whatsit'
+    things over there...
+  - I swear if I weren't rubbin' backs with the higher ups...
+  - Yo! Fresh meat! What happened to ya? Butcher get a hold of ya face flaps?
+  - Nah I'm just messin with ya, the only reason you'd be in here is if ya done did
+    that to yeself!
+  - Name's Mickey, Mickey V. And this here's Dorothy, She's a lil' off to the side
+    ya get?
+  - Over there's Goggles, he's a lil' quiet type, I wouldn't bother him if I were
+    yous.
+  - 'As for me? Well I ain''t nothin'' wrong to end up in this insane-o place. '
+  - I'm the only sane one here I tells ya! Don't be hearin' those lies the guards'll
+    whisper to ya, I think they're all against us.
+  - But we'll get outta this forsaken place, we ALLLL will, well, I will. Ya seen
+    that stairwell door'n to the left of the cafeteria? That-
+  - ON THE WING MAJOR SEARGENT! WATCH YOUR 6 ALPHA TANGO NOVEMBER!!!
+  - CAN IT YA NUTCASE!!!
+  - Anyhows that stairwell door is the best ticket outta here, but it's locked at
+    all times to stop us normal types sneakins and snoopins around.
+  - Only thing that'll open it is them fancy keycards them guards is got.
+  - What's worse is every stair door needs a different keycard to open which I learnt
+    the hard way.
+  - Pesky guards caught me like a jackrabbit on a hot plate!
+  - I think Goggles here's been tryna craft a lockpickin doohickey or somethin that
+    should open a single door.
+  - He's got the brains, but i wouldn't look him in the eyes man.
+  - Anyhows I'm workin the kitchens down here, they got us on our KNEES scrapin the
+    gunk off these tables.
+  - But gettin my own bed in the staff room upstairs makes it allllll worth it.
+  - 'Speakin of, guards''ll be on me if I don''t get back to work, did I catch ya
+    name? '
+  - No? I'll call ya Stitchface since ya look like you been cut and sewnm I love
+    it!
+  - Come and see me Stitch I want you on my team outta this hellhole!
+  responses: []
+  character:
+  - {fileID: 1461703774188073887, guid: dd3aa322e2eb4114ca6fdef3c969e873, type: 3}
+  - {fileID: 1461703774188073887, guid: dd3aa322e2eb4114ca6fdef3c969e873, type: 3}
+  - {fileID: 1461703774188073887, guid: dd3aa322e2eb4114ca6fdef3c969e873, type: 3}
+  - {fileID: 1461703774188073887, guid: dd3aa322e2eb4114ca6fdef3c969e873, type: 3}
+  - {fileID: 1461703774188073887, guid: dd3aa322e2eb4114ca6fdef3c969e873, type: 3}
+  - {fileID: 1461703774188073887, guid: dd3aa322e2eb4114ca6fdef3c969e873, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  - {fileID: 1022820563626090347, guid: 75a9bb8703d4c0d4493eeb8f47ee6bf0, type: 3}
+  hasEvent: 000000000000000000000000000000000000000000000001

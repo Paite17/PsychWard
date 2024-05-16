@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4fcc517136536499a2a6775cdd2912, type: 3}
+  m_Name: Dorothy_PostQuest
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Oh what's this? I don't recognise this woman... but is that... it is! A spitfire
+    F40-700 Model with tri-blades and 60GYH!!
+  - Ahh those were the days... This is a fine photo you've taken private, keep that
+    in your back pocket, we don't want it falling into Nazi hands.
+  responses: []
+  character:
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  - {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  hasEvent: 0000

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1574ab488ea170f489c4ba49c05e2049, type: 3}
+  m_Name: DorothyFoodQuest
+  m_EditorClassIdentifier: 
+  questName: Get Dorothy some "real" food
+  description: 
+  type: 0
+  questID: 1
+  character: {fileID: 8190347880457366209, guid: 81e7a5a70d6c99143a336c2b0bcf10d4, type: 3}
+  reward: {fileID: 11400000, guid: a66985881ac2c7743b7e26b9891f0e60, type: 2}

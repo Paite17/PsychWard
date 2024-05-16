@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4fcc517136536499a2a6775cdd2912, type: 3}
+  m_Name: MylesVisitorsDialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Alright, make it quick.
+  - Oh hi Big T! Heh, how's it going? Not one to talk I see I see...
+  - It's been uh... tough, without you. This is for the best that you're here now.
+  - The kids by the village have been tellin' stories, saying "the Stitchface will
+    consume your flesh to add to his collection".
+  - Heh, kids right? Sorry. Look, I know it's been a hard couple of weeks, and I
+    know everyone has given up but...
+  - I know you're still in there. This place will help, you just have to... break
+    out of this!
+  - I brought some flowers but they uh, didn't let me give them to you.
+  - Anyway I can't talk long, but I know you'll be taken care of here. You're going
+    to be fine.
+  - Alright, time's up here...
+  responses: []
+  character:
+  - {fileID: 175079970717883176, guid: 2d32c5487491c5448a44294068df0e9a, type: 3}
+  - {fileID: 8448791133838679711, guid: d07aa09a1fbf6eb48b01494a425c347a, type: 3}
+  - {fileID: 8448791133838679711, guid: d07aa09a1fbf6eb48b01494a425c347a, type: 3}
+  - {fileID: 8448791133838679711, guid: d07aa09a1fbf6eb48b01494a425c347a, type: 3}
+  - {fileID: 8448791133838679711, guid: d07aa09a1fbf6eb48b01494a425c347a, type: 3}
+  - {fileID: 8448791133838679711, guid: d07aa09a1fbf6eb48b01494a425c347a, type: 3}
+  - {fileID: 8448791133838679711, guid: d07aa09a1fbf6eb48b01494a425c347a, type: 3}
+  - {fileID: 8448791133838679711, guid: d07aa09a1fbf6eb48b01494a425c347a, type: 3}
+  - {fileID: 175079970717883176, guid: 2d32c5487491c5448a44294068df0e9a, type: 3}
+  hasEvent: 000000000000000001

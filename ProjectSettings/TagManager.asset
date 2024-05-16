@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemPickup
+  - CutsceneSecurity
+  - Door
+  - KeypadActivator
+  - CamYActive
+  - DialogueTrigger
+  - SecurityCutsceneDisappear
+  - CamStop
+  - DorothyQuest_Activator
+  - Screw
+  - StartFirstCutscene
+  - CutleryPuzzle_OutsideDrawer
+  - CutleryPuzzleStart
+  - HideSpot
+  - AllowInteraction
+  - SecondGuardHallway
+  - StorageBox
+  - FinalBoss
+  - Roof_EndTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hidden
+  - Water
+  - UI
+  - Hiding Box
+  - 
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4170911483
+    locked: 0

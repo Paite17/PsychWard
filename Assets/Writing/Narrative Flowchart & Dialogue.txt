@@ -1,0 +1,8 @@
+https://miro.com/app/board/uXjVMHZVv9g=/
+
+The flowcharts are at the top of the page made of sticky notes.
+
+These notes outline every possible direction a player could take and all the associated events
+and dialogue options that can occur as a result. This document also outline the key events of each
+level which help progress through the day, making sure there are enough key actions for the day to work,
+but not quite enough to do ALL the key events, thus encouraging replayability to finish all the questlines.

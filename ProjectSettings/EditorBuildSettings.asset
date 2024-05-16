@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: f49eb1e57629db9468039db618ebf91e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5184061b0a382494eb077f8a74083215
+  - enabled: 1
+    path: Assets/Scenes/Floor1.unity
+    guid: 5c69b9215153c09428b5b05cc5a0de28
+  - enabled: 1
+    path: Assets/Scenes/Floor1  Night.unity
+    guid: 7025965cd2cfad54597390d4996950ad
+  - enabled: 1
+    path: Assets/Scenes/Final Level.unity
+    guid: 207b4222ea5d20e4eb9b0d15230162ba
+  - enabled: 1
+    path: Assets/Scenes/EndOfDemo.unity
+    guid: f0b5473c062ea3c44afb5eccea4a3477
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 13d88106644c7964e8de505823619da4
+  - enabled: 1
+    path: Assets/Scenes/BulletinBoardTest.unity
+    guid: 1f9a16fccf1c4d34888e6e769e3d7061
+  - enabled: 1
+    path: Assets/Scenes/Floor2.unity
+    guid: 3fbe2879d45927a4ab9332ea808824c8
+  - enabled: 1
+    path: Assets/Scenes/Test floor.unity
+    guid: eb25fed3696c39543a5dbf65efb67715
+  - enabled: 1
+    path: Assets/Scenes/TestingScene.unity
+    guid: 31006d219580e274d822e658658f1795
+  - enabled: 1
+    path: Assets/Scenes/Floor3.unity
+    guid: a9203e250f0fa4a4ab3e6c4b3d7141c3
+  - enabled: 1
+    path: Assets/Scenes/UITest.unity
+    guid: 33ed4c0aacb2e1a4ebd3bcb05c67d296
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 0e0c2077b9c550c42b32d4a94fc58a5f, type: 2}
