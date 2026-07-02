@@ -3,7 +3,7 @@ guid: 7d3bc5751e9efc0488cf4c11708d42e2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,6 +63,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -142,6 +143,18 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -330,14 +343,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dorothy'sRoomTilemap_3: -524782881
-      Dorothy'sRoomTilemap_4: -1264632942
-      Dorothy'sRoomTilemap_2: 1227413063
-      Dorothy'sRoomTilemap_6: 1145624312
-      Dorothy'sRoomTilemap_7: -1130260036
       Dorothy'sRoomTilemap_0: 730234075
       Dorothy'sRoomTilemap_1: 462269292
+      Dorothy'sRoomTilemap_2: 1227413063
+      Dorothy'sRoomTilemap_3: -524782881
+      Dorothy'sRoomTilemap_4: -1264632942
       Dorothy'sRoomTilemap_5: -1782903742
+      Dorothy'sRoomTilemap_6: 1145624312
+      Dorothy'sRoomTilemap_7: -1130260036
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
