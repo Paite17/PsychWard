@@ -21,6 +21,7 @@ public enum MenuState
     THANKS_NOTE,
     ITEM_STORAGE
 }
+
 public class UIScript : MonoBehaviour
 {
     // holds the icons for items on the preview
@@ -216,121 +217,77 @@ public class UIScript : MonoBehaviour
             // loop for when the player has more than 8 items
             for (int i = savedIndex[currentPage - 1]; i < maxIndex; i++)
             {
-                // i need a better way of checking this, as the loop will try to go further than the amount of items in the list
-                if (player.playerInventory[i] != null)
+                // i need a better way of checking this, as the loop will try to go further than the amount of items in the list#
+                if (player.playerInventory != null)
                 {
-                    
-                    invItemButtons[iconPointer].GetComponent<InvItemAssign>().currentItem = player.playerInventory[i];
-
-                    // check if icon exists before applying it
-                    if (player.playerInventory[i].GetIconByID() != null)
+                    if (player.playerInventory[i] != null)
                     {
-                        invItemButtons[iconPointer].GetComponent<InvItemAssign>().SetImageIconAsItem();
+
+                        invItemButtons[iconPointer].GetComponent<InvItemAssign>().currentItem = player.playerInventory[i];
+
+                        // check if icon exists before applying it
+                        if (player.playerInventory[i].GetIconByID() != null)
+                        {
+                            invItemButtons[i].GetComponent<InvItemAssign>().SetImageIconAsItem();
+                        }
+                        else
+                        {
+                            invItemIcons[i].sprite = noItem;
+                        }
+
+                        if (iconPointer < 7)
+                        {
+                            iconPointer++;
+                        }
                     }
                     else
                     {
-                        invItemIcons[i].sprite = noItem;
+                        invItemButtons[i].GetComponent<InvItemAssign>().currentItem = null;
                     }
-
-                    if (iconPointer < 7)
-                    {
-                        iconPointer++;
-                    }
+                    Debug.Log(i);
+                    Debug.Log("icon index = " + iconPointer);
                 }
-                else
-                {
-                    invItemButtons[i].GetComponent<InvItemAssign>().currentItem = null;
-                }
-                Debug.Log(i);
-                Debug.Log("icon index = " + iconPointer);
-            }
-            iconPointer = 0;
+                iconPointer = 0;
+            }        
         }
         else
         {
             // slightly adjusted loop for when the player has 8 or less items
-            for (int i = 0; i < NUM_OF_ELEMENTS_PER_PAGE; i++)
+            for (int i = 0; i < player.playerInventory.Count; i++)
             {
-                if (player.playerInventory[i] != null)
+                if (player.playerInventory != null)
                 {
-                    invItemButtons[i].GetComponent<InvItemAssign>().currentItem = player.playerInventory[i];
-
-                    // check if icon exists before applying it
-                    if (player.playerInventory[i].GetIconByID() != null)
+                    if (player.playerInventory.Count > 0)
                     {
-                        invItemButtons[i].GetComponent<InvItemAssign>().SetImageIconAsItem();
+                        Debug.Log("i = " + i);
+                        if (player.playerInventory[i] != null)
+                        {
+                            invItemButtons[i].GetComponent<InvItemAssign>().currentItem = player.playerInventory[i];
+
+                            // check if icon exists before applying it
+                            if (player.playerInventory[i].GetIconByID() != null)
+                            {
+                                invItemButtons[i].GetComponent<InvItemAssign>().SetImageIconAsItem();
+                            }
+                            else
+                            {
+                                invItemIcons[i].sprite = noItem;
+                            }
+                        }
+                        else
+                        {
+                            invItemButtons[i].GetComponent<InvItemAssign>().currentItem = null;
+                        }
                     }
                     else
                     {
-                        invItemIcons[i].sprite = noItem;
+                        invItemButtons[i].GetComponent<InvItemAssign>().currentItem = null;
                     }
+                   
                 }
-                else
-                {
-                    invItemButtons[i].GetComponent<InvItemAssign>().currentItem = null;
-                }
+               
             }
         }
-        
-        
-        
-        // apply item icons to each space on the menu
-        // i feel bad for anyone that has to look at this mess, my brain is in pain
-        /*for (int i = savedIndex[currentPage - 1]; i < maxIndex; i++)
-        {
-            Debug.Log("i = " + i);
-            Debug.Log("killMe = " + killMe);
-            Debug.Log("maxIndex = " + maxIndex);
-
-            for (int j = 0; j < killMe; j++)
-            {
-
-                Debug.Log("j = " + j);
-                Debug.Log("g = " + g);
-                // so much nesting oh god
-                if (player.playerInventory.Count > 0)
-                {
-                    if (g < player.playerInventory.Count)
-                    {
-                        if (player.playerInventory[g] != null)
-                        {
-                            if (player.playerInventory[g].GetIconByID() != null)
-                            {
-                                invItemIcons[j].sprite = player.playerInventory[g].GetIconByID();
-                            }
-                            else
-                            {
-                                invItemIcons[j].sprite = noItem;
-                            }
-
-                        }
-                    } 
-
-                    if (player.playerInventory.Count > 0)
-                    {
-                        if (g < player.playerInventory.Count)
-                        {
-                            if (player.playerInventory[g] != null)
-                            {
-                                invItemButtons[j].GetComponent<InvItemAssign>().currentItem = player.playerInventory[g];
-                                invItemButtons[j].GetComponent<InvItemAssign>().SetImageIconAsItem();
-                            }
-                            else
-                            {
-                                invItemButtons[j].GetComponent<InvItemAssign>().currentItem = null;
-                            }
-                        }
-                    }
-                    g++;
-                    //saving = i;
-                } 
-
-            }
-            
-
-            Debug.Log("savedIndex = " + savedIndex);
-
-        }*/
 
         savedIndex.Add(saving);
     }
